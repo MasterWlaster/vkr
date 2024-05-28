@@ -1,0 +1,56 @@
+goos: linux
+goarch: amd64
+pkg: github.com/jonhoo/drwmutex/cmd/bench
+cpu: AMD Ryzen 5 5500U with Radeon Graphics         
+BenchmarkRandFloat64Instance-12    	421973220	         2.846 ns/op
+BenchmarkRandFloat64Instance-12    	421805871	         2.852 ns/op
+BenchmarkRandFloat64Instance-12    	412139839	         2.852 ns/op
+BenchmarkRandFloat64Instance-12    	421710196	         2.848 ns/op
+BenchmarkRandFloat64Instance-12    	421561944	         2.853 ns/op
+BenchmarkRandFloat64Instance-12    	420741216	         2.847 ns/op
+BenchmarkRandFloat64Instance-12    	421142997	         2.853 ns/op
+BenchmarkRandFloat64Instance-12    	421169758	         2.850 ns/op
+BenchmarkRandFloat64Instance-12    	409271421	         2.848 ns/op
+BenchmarkRandFloat64Instance-12    	420763932	         2.884 ns/op
+BenchmarkRandFloat64Instance-12    	416704131	         2.849 ns/op
+BenchmarkRandFloat64Instance-12    	420711922	         2.850 ns/op
+BenchmarkRandFloat64Instance-12    	420351379	         2.853 ns/op
+BenchmarkRandFloat64Instance-12    	419336265	         2.849 ns/op
+BenchmarkRandFloat64Instance-12    	421320802	         2.848 ns/op
+BenchmarkRandFloat64Instance-12    	410227672	         2.894 ns/op
+BenchmarkRandFloat64Instance-12    	406869848	         2.848 ns/op
+BenchmarkRandFloat64Instance-12    	406281234	         2.851 ns/op
+BenchmarkRandFloat64Instance-12    	421490337	         2.907 ns/op
+BenchmarkRandFloat64Instance-12    	420342548	         2.905 ns/op
+BenchmarkRandFloat64Instance-12    	413013354	         2.848 ns/op
+BenchmarkRandFloat64Instance-12    	412704172	         2.953 ns/op
+BenchmarkRandFloat64Instance-12    	415481697	         2.848 ns/op
+BenchmarkRandFloat64Instance-12    	408130929	         2.847 ns/op
+BenchmarkRandFloat64Instance-12    	419327191	         2.850 ns/op
+BenchmarkRandFloat64Instance-12    	414148935	         2.866 ns/op
+BenchmarkRandFloat64Instance-12    	420933060	         2.845 ns/op
+BenchmarkRandFloat64Instance-12    	404564358	         2.891 ns/op
+BenchmarkRandFloat64Instance-12    	420670134	         2.853 ns/op
+BenchmarkRandFloat64Instance-12    	412277234	         2.850 ns/op
+BenchmarkRandFloat64Instance-12    	421262252	         2.910 ns/op
+BenchmarkRandFloat64Instance-12    	421383732	         2.848 ns/op
+BenchmarkRandFloat64Instance-12    	420378734	         2.942 ns/op
+BenchmarkRandFloat64Instance-12    	421277383	         2.850 ns/op
+BenchmarkRandFloat64Instance-12    	421307553	         2.848 ns/op
+BenchmarkRandFloat64Instance-12    	419949021	         2.944 ns/op
+BenchmarkRandFloat64Instance-12    	421569748	         2.902 ns/op
+BenchmarkRandFloat64Instance-12    	421347896	         2.846 ns/op
+BenchmarkRandFloat64Instance-12    	421286702	         2.847 ns/op
+BenchmarkRandFloat64Instance-12    	420472728	         2.847 ns/op
+BenchmarkRandFloat64Instance-12    	421641652	         2.854 ns/op
+BenchmarkRandFloat64Instance-12    	421651214	         2.845 ns/op
+BenchmarkRandFloat64Instance-12    	419784273	         2.849 ns/op
+BenchmarkRandFloat64Instance-12    	420734524	         2.848 ns/op
+BenchmarkRandFloat64Instance-12    	421349138	         2.846 ns/op
+BenchmarkRandFloat64Instance-12    	418669761	         2.922 ns/op
+BenchmarkRandFloat64Instance-12    	419630463	         2.848 ns/op
+BenchmarkRandFloat64Instance-12    	405438375	         2.848 ns/op
+BenchmarkRandFloat64Instance-12    	420847328	         2.925 ns/op
+BenchmarkRandFloat64Instance-12    	420539114	         2.849 ns/op
+PASS
+ok  	github.com/jonhoo/drwmutex/cmd/bench	74.627s

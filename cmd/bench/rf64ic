@@ -1,0 +1,56 @@
+goos: linux
+goarch: amd64
+pkg: github.com/jonhoo/drwmutex/cmd/bench
+cpu: AMD Ryzen 5 5500U with Radeon Graphics         
+BenchmarkRandFloat64InstanceClear-12    	416865690	         2.847 ns/op
+BenchmarkRandFloat64InstanceClear-12    	416685289	         2.851 ns/op
+BenchmarkRandFloat64InstanceClear-12    	422022489	         2.850 ns/op
+BenchmarkRandFloat64InstanceClear-12    	419769784	         2.843 ns/op
+BenchmarkRandFloat64InstanceClear-12    	416076712	         2.839 ns/op
+BenchmarkRandFloat64InstanceClear-12    	408411550	         2.842 ns/op
+BenchmarkRandFloat64InstanceClear-12    	420972866	         2.872 ns/op
+BenchmarkRandFloat64InstanceClear-12    	420728926	         2.844 ns/op
+BenchmarkRandFloat64InstanceClear-12    	415132933	         2.843 ns/op
+BenchmarkRandFloat64InstanceClear-12    	421029542	         2.848 ns/op
+BenchmarkRandFloat64InstanceClear-12    	411104794	         2.845 ns/op
+BenchmarkRandFloat64InstanceClear-12    	406991376	         2.848 ns/op
+BenchmarkRandFloat64InstanceClear-12    	422562121	         2.874 ns/op
+BenchmarkRandFloat64InstanceClear-12    	421950986	         2.854 ns/op
+BenchmarkRandFloat64InstanceClear-12    	421506968	         2.852 ns/op
+BenchmarkRandFloat64InstanceClear-12    	412027472	         2.892 ns/op
+BenchmarkRandFloat64InstanceClear-12    	422198787	         2.850 ns/op
+BenchmarkRandFloat64InstanceClear-12    	419820028	         2.847 ns/op
+BenchmarkRandFloat64InstanceClear-12    	421642032	         2.860 ns/op
+BenchmarkRandFloat64InstanceClear-12    	419853714	         2.885 ns/op
+BenchmarkRandFloat64InstanceClear-12    	412346833	         2.849 ns/op
+BenchmarkRandFloat64InstanceClear-12    	420652690	         2.852 ns/op
+BenchmarkRandFloat64InstanceClear-12    	417012481	         2.883 ns/op
+BenchmarkRandFloat64InstanceClear-12    	420415053	         2.853 ns/op
+BenchmarkRandFloat64InstanceClear-12    	421575807	         2.846 ns/op
+BenchmarkRandFloat64InstanceClear-12    	414809523	         2.843 ns/op
+BenchmarkRandFloat64InstanceClear-12    	410490301	         2.860 ns/op
+BenchmarkRandFloat64InstanceClear-12    	421785388	         2.845 ns/op
+BenchmarkRandFloat64InstanceClear-12    	421197960	         2.904 ns/op
+BenchmarkRandFloat64InstanceClear-12    	420163898	         2.889 ns/op
+BenchmarkRandFloat64InstanceClear-12    	419996122	         2.850 ns/op
+BenchmarkRandFloat64InstanceClear-12    	409175216	         2.893 ns/op
+BenchmarkRandFloat64InstanceClear-12    	414691683	         2.851 ns/op
+BenchmarkRandFloat64InstanceClear-12    	408718120	         2.852 ns/op
+BenchmarkRandFloat64InstanceClear-12    	412275040	         2.854 ns/op
+BenchmarkRandFloat64InstanceClear-12    	420612172	         2.890 ns/op
+BenchmarkRandFloat64InstanceClear-12    	420909933	         2.934 ns/op
+BenchmarkRandFloat64InstanceClear-12    	406912930	         2.888 ns/op
+BenchmarkRandFloat64InstanceClear-12    	420983478	         2.846 ns/op
+BenchmarkRandFloat64InstanceClear-12    	406828950	         2.854 ns/op
+BenchmarkRandFloat64InstanceClear-12    	419384157	         2.851 ns/op
+BenchmarkRandFloat64InstanceClear-12    	420684949	         2.858 ns/op
+BenchmarkRandFloat64InstanceClear-12    	413289084	         2.906 ns/op
+BenchmarkRandFloat64InstanceClear-12    	421317447	         2.851 ns/op
+BenchmarkRandFloat64InstanceClear-12    	421106240	         2.848 ns/op
+BenchmarkRandFloat64InstanceClear-12    	420998185	         2.848 ns/op
+BenchmarkRandFloat64InstanceClear-12    	415392848	         2.898 ns/op
+BenchmarkRandFloat64InstanceClear-12    	414551500	         2.889 ns/op
+BenchmarkRandFloat64InstanceClear-12    	421970342	         2.857 ns/op
+BenchmarkRandFloat64InstanceClear-12    	421483665	         2.852 ns/op
+PASS
+ok  	github.com/jonhoo/drwmutex/cmd/bench	74.512s

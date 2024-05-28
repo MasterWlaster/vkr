@@ -1,0 +1,56 @@
+goos: linux
+goarch: amd64
+pkg: github.com/jonhoo/drwmutex/cmd/bench
+cpu: AMD Ryzen 5 5500U with Radeon Graphics         
+BenchmarkG-12    	1000000000	         0.07619 ns/op
+BenchmarkG-12    	1000000000	         0.07624 ns/op
+BenchmarkG-12    	1000000000	         0.07659 ns/op
+BenchmarkG-12    	1000000000	         0.07671 ns/op
+BenchmarkG-12    	1000000000	         0.07663 ns/op
+BenchmarkG-12    	1000000000	         0.07637 ns/op
+BenchmarkG-12    	1000000000	         0.07626 ns/op
+BenchmarkG-12    	1000000000	         0.07632 ns/op
+BenchmarkG-12    	1000000000	         0.07674 ns/op
+BenchmarkG-12    	1000000000	         0.07650 ns/op
+BenchmarkG-12    	1000000000	         0.07663 ns/op
+BenchmarkG-12    	1000000000	         0.07638 ns/op
+BenchmarkG-12    	1000000000	         0.07621 ns/op
+BenchmarkG-12    	1000000000	         0.07655 ns/op
+BenchmarkG-12    	1000000000	         0.07644 ns/op
+BenchmarkG-12    	1000000000	         0.07931 ns/op
+BenchmarkG-12    	1000000000	         0.07651 ns/op
+BenchmarkG-12    	1000000000	         0.07629 ns/op
+BenchmarkG-12    	1000000000	         0.07628 ns/op
+BenchmarkG-12    	1000000000	         0.07646 ns/op
+BenchmarkG-12    	1000000000	         0.07757 ns/op
+BenchmarkG-12    	1000000000	         0.07639 ns/op
+BenchmarkG-12    	1000000000	         0.07688 ns/op
+BenchmarkG-12    	1000000000	         0.07661 ns/op
+BenchmarkG-12    	1000000000	         0.07686 ns/op
+BenchmarkG-12    	1000000000	         0.07640 ns/op
+BenchmarkG-12    	1000000000	         0.07631 ns/op
+BenchmarkG-12    	1000000000	         0.07642 ns/op
+BenchmarkG-12    	1000000000	         0.07644 ns/op
+BenchmarkG-12    	1000000000	         0.07634 ns/op
+BenchmarkG-12    	1000000000	         0.07635 ns/op
+BenchmarkG-12    	1000000000	         0.07707 ns/op
+BenchmarkG-12    	1000000000	         0.07679 ns/op
+BenchmarkG-12    	1000000000	         0.07650 ns/op
+BenchmarkG-12    	1000000000	         0.07656 ns/op
+BenchmarkG-12    	1000000000	         0.07656 ns/op
+BenchmarkG-12    	1000000000	         0.07662 ns/op
+BenchmarkG-12    	1000000000	         0.07633 ns/op
+BenchmarkG-12    	1000000000	         0.07645 ns/op
+BenchmarkG-12    	1000000000	         0.07679 ns/op
+BenchmarkG-12    	1000000000	         0.07643 ns/op
+BenchmarkG-12    	1000000000	         0.07638 ns/op
+BenchmarkG-12    	1000000000	         0.07637 ns/op
+BenchmarkG-12    	1000000000	         0.07639 ns/op
+BenchmarkG-12    	1000000000	         0.07647 ns/op
+BenchmarkG-12    	1000000000	         0.07665 ns/op
+BenchmarkG-12    	1000000000	         0.07672 ns/op
+BenchmarkG-12    	1000000000	         0.07676 ns/op
+BenchmarkG-12    	1000000000	         0.07644 ns/op
+BenchmarkG-12    	1000000000	         0.07639 ns/op
+PASS
+ok  	github.com/jonhoo/drwmutex/cmd/bench	4.382s

@@ -1,0 +1,56 @@
+goos: linux
+goarch: amd64
+pkg: github.com/jonhoo/drwmutex/cmd/bench
+cpu: AMD Ryzen 5 5500U with Radeon Graphics         
+BenchmarkIncrement-12    	1000000000	         0.2491 ns/op
+BenchmarkIncrement-12    	1000000000	         0.2495 ns/op
+BenchmarkIncrement-12    	1000000000	         0.2504 ns/op
+BenchmarkIncrement-12    	1000000000	         0.2494 ns/op
+BenchmarkIncrement-12    	1000000000	         0.2494 ns/op
+BenchmarkIncrement-12    	1000000000	         0.2496 ns/op
+BenchmarkIncrement-12    	1000000000	         0.2493 ns/op
+BenchmarkIncrement-12    	1000000000	         0.2492 ns/op
+BenchmarkIncrement-12    	1000000000	         0.2501 ns/op
+BenchmarkIncrement-12    	1000000000	         0.2493 ns/op
+BenchmarkIncrement-12    	1000000000	         0.2498 ns/op
+BenchmarkIncrement-12    	1000000000	         0.2493 ns/op
+BenchmarkIncrement-12    	1000000000	         0.2500 ns/op
+BenchmarkIncrement-12    	1000000000	         0.2489 ns/op
+BenchmarkIncrement-12    	1000000000	         0.2491 ns/op
+BenchmarkIncrement-12    	1000000000	         0.2500 ns/op
+BenchmarkIncrement-12    	1000000000	         0.2494 ns/op
+BenchmarkIncrement-12    	1000000000	         0.2495 ns/op
+BenchmarkIncrement-12    	1000000000	         0.2493 ns/op
+BenchmarkIncrement-12    	1000000000	         0.2494 ns/op
+BenchmarkIncrement-12    	1000000000	         0.2490 ns/op
+BenchmarkIncrement-12    	1000000000	         0.2493 ns/op
+BenchmarkIncrement-12    	1000000000	         0.2490 ns/op
+BenchmarkIncrement-12    	1000000000	         0.2507 ns/op
+BenchmarkIncrement-12    	1000000000	         0.2494 ns/op
+BenchmarkIncrement-12    	1000000000	         0.2490 ns/op
+BenchmarkIncrement-12    	1000000000	         0.2503 ns/op
+BenchmarkIncrement-12    	1000000000	         0.2490 ns/op
+BenchmarkIncrement-12    	1000000000	         0.2500 ns/op
+BenchmarkIncrement-12    	1000000000	         0.2497 ns/op
+BenchmarkIncrement-12    	1000000000	         0.2494 ns/op
+BenchmarkIncrement-12    	1000000000	         0.2492 ns/op
+BenchmarkIncrement-12    	1000000000	         0.2501 ns/op
+BenchmarkIncrement-12    	1000000000	         0.2488 ns/op
+BenchmarkIncrement-12    	1000000000	         0.2498 ns/op
+BenchmarkIncrement-12    	1000000000	         0.2500 ns/op
+BenchmarkIncrement-12    	1000000000	         0.2495 ns/op
+BenchmarkIncrement-12    	1000000000	         0.2493 ns/op
+BenchmarkIncrement-12    	1000000000	         0.2494 ns/op
+BenchmarkIncrement-12    	1000000000	         0.2494 ns/op
+BenchmarkIncrement-12    	1000000000	         0.2498 ns/op
+BenchmarkIncrement-12    	1000000000	         0.2507 ns/op
+BenchmarkIncrement-12    	1000000000	         0.2494 ns/op
+BenchmarkIncrement-12    	1000000000	         0.2495 ns/op
+BenchmarkIncrement-12    	1000000000	         0.2487 ns/op
+BenchmarkIncrement-12    	1000000000	         0.2515 ns/op
+BenchmarkIncrement-12    	1000000000	         0.2496 ns/op
+BenchmarkIncrement-12    	1000000000	         0.2496 ns/op
+BenchmarkIncrement-12    	1000000000	         0.2501 ns/op
+BenchmarkIncrement-12    	1000000000	         0.2495 ns/op
+PASS
+ok  	github.com/jonhoo/drwmutex/cmd/bench	13.983s

@@ -1,0 +1,56 @@
+goos: linux
+goarch: amd64
+pkg: github.com/jonhoo/drwmutex/cmd/bench
+cpu: AMD Ryzen 5 5500U with Radeon Graphics         
+BenchmarkLockUnlockClear-12    	 5357233	       224.4 ns/op
+BenchmarkLockUnlockClear-12    	 5339251	       223.6 ns/op
+BenchmarkLockUnlockClear-12    	 5364513	       223.8 ns/op
+BenchmarkLockUnlockClear-12    	 5356108	       223.9 ns/op
+BenchmarkLockUnlockClear-12    	 5348198	       223.6 ns/op
+BenchmarkLockUnlockClear-12    	 5334816	       223.8 ns/op
+BenchmarkLockUnlockClear-12    	 5350208	       223.8 ns/op
+BenchmarkLockUnlockClear-12    	 5358225	       224.0 ns/op
+BenchmarkLockUnlockClear-12    	 5352133	       223.8 ns/op
+BenchmarkLockUnlockClear-12    	 5351632	       223.8 ns/op
+BenchmarkLockUnlockClear-12    	 5361340	       223.8 ns/op
+BenchmarkLockUnlockClear-12    	 5361040	       223.9 ns/op
+BenchmarkLockUnlockClear-12    	 5347376	       223.7 ns/op
+BenchmarkLockUnlockClear-12    	 5349296	       223.7 ns/op
+BenchmarkLockUnlockClear-12    	 5352520	       223.7 ns/op
+BenchmarkLockUnlockClear-12    	 5347807	       223.7 ns/op
+BenchmarkLockUnlockClear-12    	 5352832	       223.7 ns/op
+BenchmarkLockUnlockClear-12    	 5348640	       223.9 ns/op
+BenchmarkLockUnlockClear-12    	 5346646	       223.5 ns/op
+BenchmarkLockUnlockClear-12    	 5353184	       223.7 ns/op
+BenchmarkLockUnlockClear-12    	 5362876	       223.7 ns/op
+BenchmarkLockUnlockClear-12    	 5367342	       223.9 ns/op
+BenchmarkLockUnlockClear-12    	 5356815	       224.0 ns/op
+BenchmarkLockUnlockClear-12    	 5353875	       223.7 ns/op
+BenchmarkLockUnlockClear-12    	 5320802	       223.7 ns/op
+BenchmarkLockUnlockClear-12    	 5355504	       223.7 ns/op
+BenchmarkLockUnlockClear-12    	 5367627	       224.0 ns/op
+BenchmarkLockUnlockClear-12    	 5331850	       223.8 ns/op
+BenchmarkLockUnlockClear-12    	 5315234	       223.7 ns/op
+BenchmarkLockUnlockClear-12    	 5364544	       224.2 ns/op
+BenchmarkLockUnlockClear-12    	 5342005	       224.3 ns/op
+BenchmarkLockUnlockClear-12    	 5346147	       223.9 ns/op
+BenchmarkLockUnlockClear-12    	 5334417	       224.0 ns/op
+BenchmarkLockUnlockClear-12    	 5348919	       223.7 ns/op
+BenchmarkLockUnlockClear-12    	 5359706	       223.9 ns/op
+BenchmarkLockUnlockClear-12    	 5390686	       223.8 ns/op
+BenchmarkLockUnlockClear-12    	 5363292	       224.9 ns/op
+BenchmarkLockUnlockClear-12    	 5347490	       223.7 ns/op
+BenchmarkLockUnlockClear-12    	 5336677	       224.0 ns/op
+BenchmarkLockUnlockClear-12    	 5343346	       223.9 ns/op
+BenchmarkLockUnlockClear-12    	 5331139	       223.8 ns/op
+BenchmarkLockUnlockClear-12    	 5352170	       223.8 ns/op
+BenchmarkLockUnlockClear-12    	 5360786	       223.8 ns/op
+BenchmarkLockUnlockClear-12    	 5350657	       224.1 ns/op
+BenchmarkLockUnlockClear-12    	 5327581	       223.7 ns/op
+BenchmarkLockUnlockClear-12    	 5353747	       223.6 ns/op
+BenchmarkLockUnlockClear-12    	 5359990	       223.7 ns/op
+BenchmarkLockUnlockClear-12    	 5351882	       223.6 ns/op
+BenchmarkLockUnlockClear-12    	 5330041	       224.4 ns/op
+BenchmarkLockUnlockClear-12    	 5340932	       224.1 ns/op
+PASS
+ok  	github.com/jonhoo/drwmutex/cmd/bench	71.452s

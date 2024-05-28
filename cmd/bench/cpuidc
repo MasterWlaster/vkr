@@ -1,0 +1,56 @@
+goos: linux
+goarch: amd64
+pkg: github.com/jonhoo/drwmutex/cmd/bench
+cpu: AMD Ryzen 5 5500U with Radeon Graphics         
+BenchmarkCPUIDClear-12    	 1909262	       630.1 ns/op
+BenchmarkCPUIDClear-12    	 1893148	       627.8 ns/op
+BenchmarkCPUIDClear-12    	 1904566	       629.3 ns/op
+BenchmarkCPUIDClear-12    	 1910336	       631.4 ns/op
+BenchmarkCPUIDClear-12    	 1899584	       627.7 ns/op
+BenchmarkCPUIDClear-12    	 1905348	       628.3 ns/op
+BenchmarkCPUIDClear-12    	 1911069	       628.8 ns/op
+BenchmarkCPUIDClear-12    	 1890898	       631.4 ns/op
+BenchmarkCPUIDClear-12    	 1892726	       628.6 ns/op
+BenchmarkCPUIDClear-12    	 1895432	       634.1 ns/op
+BenchmarkCPUIDClear-12    	 1905996	       631.0 ns/op
+BenchmarkCPUIDClear-12    	 1899777	       629.0 ns/op
+BenchmarkCPUIDClear-12    	 1887206	       629.3 ns/op
+BenchmarkCPUIDClear-12    	 1900587	       629.1 ns/op
+BenchmarkCPUIDClear-12    	 1902928	       634.1 ns/op
+BenchmarkCPUIDClear-12    	 1895568	       630.2 ns/op
+BenchmarkCPUIDClear-12    	 1891851	       630.0 ns/op
+BenchmarkCPUIDClear-12    	 1889421	       628.4 ns/op
+BenchmarkCPUIDClear-12    	 1904835	       627.9 ns/op
+BenchmarkCPUIDClear-12    	 1907786	       634.5 ns/op
+BenchmarkCPUIDClear-12    	 1892031	       631.6 ns/op
+BenchmarkCPUIDClear-12    	 1905187	       628.4 ns/op
+BenchmarkCPUIDClear-12    	 1894344	       628.9 ns/op
+BenchmarkCPUIDClear-12    	 1898948	       629.0 ns/op
+BenchmarkCPUIDClear-12    	 1908482	       630.8 ns/op
+BenchmarkCPUIDClear-12    	 1905046	       634.1 ns/op
+BenchmarkCPUIDClear-12    	 1898931	       628.7 ns/op
+BenchmarkCPUIDClear-12    	 1894966	       629.3 ns/op
+BenchmarkCPUIDClear-12    	 1909260	       634.1 ns/op
+BenchmarkCPUIDClear-12    	 1907403	       634.2 ns/op
+BenchmarkCPUIDClear-12    	 1909326	       633.1 ns/op
+BenchmarkCPUIDClear-12    	 1886743	       634.5 ns/op
+BenchmarkCPUIDClear-12    	 1907967	       628.4 ns/op
+BenchmarkCPUIDClear-12    	 1907412	       628.4 ns/op
+BenchmarkCPUIDClear-12    	 1897929	       632.9 ns/op
+BenchmarkCPUIDClear-12    	 1908007	       634.6 ns/op
+BenchmarkCPUIDClear-12    	 1908829	       628.7 ns/op
+BenchmarkCPUIDClear-12    	 1895542	       628.8 ns/op
+BenchmarkCPUIDClear-12    	 1908234	       634.7 ns/op
+BenchmarkCPUIDClear-12    	 1909556	       630.2 ns/op
+BenchmarkCPUIDClear-12    	 1902453	       633.2 ns/op
+BenchmarkCPUIDClear-12    	 1906321	       630.0 ns/op
+BenchmarkCPUIDClear-12    	 1904163	       632.7 ns/op
+BenchmarkCPUIDClear-12    	 1897306	       629.3 ns/op
+BenchmarkCPUIDClear-12    	 1890111	       628.3 ns/op
+BenchmarkCPUIDClear-12    	 1910388	       628.6 ns/op
+BenchmarkCPUIDClear-12    	 1910098	       628.6 ns/op
+BenchmarkCPUIDClear-12    	 1908469	       628.9 ns/op
+BenchmarkCPUIDClear-12    	 1911420	       629.3 ns/op
+BenchmarkCPUIDClear-12    	 1901559	       633.5 ns/op
+PASS
+ok  	github.com/jonhoo/drwmutex/cmd/bench	92.072s

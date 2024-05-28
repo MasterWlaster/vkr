@@ -1,0 +1,56 @@
+goos: linux
+goarch: amd64
+pkg: github.com/jonhoo/drwmutex/cmd/bench
+cpu: AMD Ryzen 5 5500U with Radeon Graphics         
+BenchmarkCPUID-12    	 1894330	       635.3 ns/op
+BenchmarkCPUID-12    	 1899369	       633.3 ns/op
+BenchmarkCPUID-12    	 1892857	       633.8 ns/op
+BenchmarkCPUID-12    	 1901090	       633.9 ns/op
+BenchmarkCPUID-12    	 1891584	       633.7 ns/op
+BenchmarkCPUID-12    	 1893292	       633.5 ns/op
+BenchmarkCPUID-12    	 1893777	       633.8 ns/op
+BenchmarkCPUID-12    	 1890974	       630.0 ns/op
+BenchmarkCPUID-12    	 1890739	       630.7 ns/op
+BenchmarkCPUID-12    	 1894138	       630.1 ns/op
+BenchmarkCPUID-12    	 1892614	       630.7 ns/op
+BenchmarkCPUID-12    	 1894195	       631.4 ns/op
+BenchmarkCPUID-12    	 1892416	       633.7 ns/op
+BenchmarkCPUID-12    	 1892541	       629.6 ns/op
+BenchmarkCPUID-12    	 1887631	       632.6 ns/op
+BenchmarkCPUID-12    	 1906442	       629.7 ns/op
+BenchmarkCPUID-12    	 1894626	       634.0 ns/op
+BenchmarkCPUID-12    	 1894833	       630.9 ns/op
+BenchmarkCPUID-12    	 1901310	       631.0 ns/op
+BenchmarkCPUID-12    	 1900789	       630.5 ns/op
+BenchmarkCPUID-12    	 1903071	       630.5 ns/op
+BenchmarkCPUID-12    	 1902062	       630.3 ns/op
+BenchmarkCPUID-12    	 1897278	       629.4 ns/op
+BenchmarkCPUID-12    	 1902937	       637.6 ns/op
+BenchmarkCPUID-12    	 1900579	       630.9 ns/op
+BenchmarkCPUID-12    	 1891426	       630.8 ns/op
+BenchmarkCPUID-12    	 1890522	       631.5 ns/op
+BenchmarkCPUID-12    	 1902736	       632.3 ns/op
+BenchmarkCPUID-12    	 1896430	       633.4 ns/op
+BenchmarkCPUID-12    	 1897359	       631.5 ns/op
+BenchmarkCPUID-12    	 1893618	       634.6 ns/op
+BenchmarkCPUID-12    	 1902993	       632.9 ns/op
+BenchmarkCPUID-12    	 1903327	       633.7 ns/op
+BenchmarkCPUID-12    	 1892812	       631.2 ns/op
+BenchmarkCPUID-12    	 1899547	       630.2 ns/op
+BenchmarkCPUID-12    	 1903082	       629.7 ns/op
+BenchmarkCPUID-12    	 1899573	       632.8 ns/op
+BenchmarkCPUID-12    	 1896657	       633.5 ns/op
+BenchmarkCPUID-12    	 1898919	       634.4 ns/op
+BenchmarkCPUID-12    	 1903513	       630.2 ns/op
+BenchmarkCPUID-12    	 1895220	       631.2 ns/op
+BenchmarkCPUID-12    	 1889578	       632.7 ns/op
+BenchmarkCPUID-12    	 1901748	       633.9 ns/op
+BenchmarkCPUID-12    	 1899891	       633.2 ns/op
+BenchmarkCPUID-12    	 1890844	       633.5 ns/op
+BenchmarkCPUID-12    	 1893546	       633.3 ns/op
+BenchmarkCPUID-12    	 1901953	       630.1 ns/op
+BenchmarkCPUID-12    	 1895824	       632.8 ns/op
+BenchmarkCPUID-12    	 1893075	       629.9 ns/op
+BenchmarkCPUID-12    	 1892740	       630.1 ns/op
+PASS
+ok  	github.com/jonhoo/drwmutex/cmd/bench	92.121s
